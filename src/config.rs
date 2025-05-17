@@ -98,7 +98,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["oa123.hicp.net"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["oa123.hicp.net:21116"];
 pub const RS_PUB_KEY: &str = "PduLGPQAV6mnuc1cFRsJzvLxkZ0sMqsm5zmyanhzQXM=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
